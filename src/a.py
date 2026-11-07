@@ -1,5 +1,7 @@
-line1 = 1
-line2 = 2
-line3 = 3
-line4 = 4
-line5 = 5
+def hello():
+    # base line 2
+    msg = "hello"
+    return msg
+
+def add(a, b):
+    return a + b
